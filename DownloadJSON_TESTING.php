@@ -1,4 +1,4 @@
 {
-  "version": "0.09",
+  "version": "0.02",
   "link": "https://raw.githubusercontent.com/GodEyeCheats/Lib/main/libGVoicePlugin.so"
 }
