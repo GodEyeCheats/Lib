@@ -1,9 +1,4 @@
 {
-  "libs": [
-    {
-      "name": "libGVoicePlugin.so",
-      "url": "https://raw.githubusercontent.com/GodEyeCheats/Lib/main/libGVoicePlugin.so",
-      "version": 1.0
-    }
-  ]
+  "version": "0.31",
+  "link": "https://raw.githubusercontent.com/GodEyeCheats/Lib/main/libGVoicePlugin.so"
 }
